@@ -78,7 +78,7 @@
 				<div id="top_navbar_menu">
 					<ul class="top_navbar_list">
 						<!-- <li class="top_navbar_list_bullet"><a href="#">Intranet</a></li> -->
-						<li class="top_navbar_list_bullet"><a href="/press-media">Press / Media</a></li>
+						<!-- <li class="top_navbar_list_bullet"><a href="/press-media">Press / Media</a></li> -->
 						<li class="top_navbar_list_bullet accessibility_tab">Accessibility 
 							<a href="#" id="small">A</a>
     							<a href="#" id="medium" class="selected">A</a>
@@ -91,7 +91,7 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         </li>						
 						<?php get_search_form( ); ?>
-						<a href="http://www.england.nhs.uk/ourwork/qual-clin-lead/calltoaction/pm-ext-access/" target="_blank"><img src="<?php echo get_site_url(); ?>/wp-content/uploads/2014/11/NHS-logo.png" alt="The NHS logo" class="nhs_logo" width="54"></a>
+						<a href="https://www.england.nhs.uk" target="_blank"><img src="<?php echo get_site_url(); ?>/wp-content/uploads/2014/11/NHS-logo.png" alt="The NHS logo" class="nhs_logo" width="54"></a>
 					</ul>
 				</div>
 
